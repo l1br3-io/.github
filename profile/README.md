@@ -10,14 +10,14 @@ Website: **[l1br3.com](https://l1br3.com)**
 
 | Project | What it is | Status |
 |---|---|---|
-| [Flintshot](https://github.com/l1br3-io/flintshot) | Cross-platform screenshot capture and annotation, in pure Rust | v0.1.1 · Apache-2.0 |
+| [Airlock](https://github.com/l1br3-io/cosmic-ext-airlock) | Workspace-isolated Alt+Tab for COSMIC | v0.4.4 · GPL-3.0 |
+| [Pomotoro](https://github.com/kulapoo/pomotoro) | Desktop Pomodoro timer & focus app with task queues, screen-blocking breaks, and ambient audio | v0.1.8 · MIT |
 | [DropTerm](https://github.com/l1br3-io/cosmic-ext-dropterm) | Quake-style drop-down terminal for the COSMIC desktop | v0.3.1 · GPL-3.0 |
+| [Flintshot](https://github.com/l1br3-io/flintshot) | Cross-platform screenshot capture and annotation, in pure Rust | v0.1.1 · Apache-2.0 |
 | [TaleTrek](https://github.com/l1br3-io/taletrek) | Turn any ebook into an audiobook — entirely on your device | in development · MIT |
 | [Castify](https://github.com/l1br3-io/castify) | Your scattered cloud videos, one self-hosted library | active development · AGPL-3.0 |
-| [Airlock](https://github.com/l1br3-io/cosmic-ext-airlock) | Workspace-isolated Alt+Tab for COSMIC | v0.4.4 · GPL-3.0 |
 
-In the works: **bartlorant** (tactical FPS bots prototype, Bevy ECS) and
-**Itala** (a plugin-first knowledge-management kernel).
+In the works: **Itala** (a plugin-first knowledge-management kernel).
 
 We also carry patched forks of [alacritty](https://github.com/l1br3-io/alacritty)
 and [vte](https://github.com/l1br3-io/vte) as upstream work.
