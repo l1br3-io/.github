@@ -4,7 +4,7 @@
 privacy, and remain accessible to all — no paywalls, no tracking, just useful
 code.
 
-Website: **[l1br3.com](https://l1br3.com)**
+Website: **[l1br3-io.github.io/libre-website](https://l1br3-io.github.io/libre-website/)**
 
 ## Projects
 
